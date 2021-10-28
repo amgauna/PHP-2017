@@ -1,2 +1,3 @@
 # PHP
-Exemplos de Código PHP de Livros
+
+Exemplos de Código PHP que eu estou estudando e testando
