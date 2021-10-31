@@ -56,6 +56,19 @@
 
 * Array (vetor) é usado para guardar dados que podem ser acessados por chaves.
 
+### São Variáveis válidas:
 
+* $_nome
+* $_get
+* $calca
+* $valor
+* $abc
+* $variavel
+* $z99
+* #soma
+* $_files
+* $profissao
+* &abcdefghijklmnopqrstuvxyz
+* As variáveis PHP não podem conter cacteres especiais como: &, +, -, <, etc.
   
   
