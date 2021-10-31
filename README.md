@@ -69,6 +69,9 @@
 * $_files
 * $profissao
 * &abcdefghijklmnopqrstuvxyz
-* As variáveis PHP não podem conter cacteres especiais como: &, +, -, <, etc.
+
+
+### As variáveis PHP não podem conter cacteres especiais como: 
+* &, +, -, <, etc.
   
   
