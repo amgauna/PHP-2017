@@ -39,6 +39,15 @@
   <li> $a >= $b // maior ou igual </li>
 </ul>
 
+### Operadores Lógicos:
+<ul>
+  <li> $a and $b // and retorna verdadeiro (true) se tanto $a quanto $b for verdadeiro. </li>
+  <li> $a or $b // or retorna verdadeiro se $a ou $b são verdadeiros. </li>
+  <li> $a xor $b // xor retorna verdadeiro se $a ou $b são vedadeiros, mas não ambos. </li>
+  <li> !$a // não </li>
+  <li> Exemplo: echo "($a + $b")
+</ul>
+
 
   
   
