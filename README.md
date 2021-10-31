@@ -72,6 +72,6 @@
 
 
 ### As variáveis PHP não podem conter cacteres especiais como: 
-* &, +, -, <, etc.
+* & , + , - , < , etc.
   
   
