@@ -48,6 +48,14 @@
   <li> Exemplo: echo "($a + $b")
 </ul>
 
+### Switch:
+
+* Switch é uma estrutura de controle que simula testes.
+
+### Array:
+
+* Array (vetor) é usado para guardar dados que podem ser acessados por chaves.
+
 
   
   
