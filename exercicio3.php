@@ -1,5 +1,6 @@
 <?php
 
-echo 'Olá!";
+echo 'Olá ";
+echo "Pessoal!";
 
 ?>
