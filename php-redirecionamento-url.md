@@ -1,4 +1,4 @@
-# Redirecionando o visitante para outra página
+# HTML5 - Redirecionando o visitante para outra página
 
 ## Alguma vez você já deve ter visitado um site que mudou de endereço e que exibe uma mensagem do tipo:
 
