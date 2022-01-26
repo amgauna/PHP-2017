@@ -3,6 +3,7 @@
      <head>
           <!--  Geolocalização -->
           <meta name="geolocation" content="Rio de Janeiro, RJ, Brazil" />
+          <meta name="geolocation.country" content="Brazil" />
           <meta name="geolocation.latitude" content="" />
           <meta name="geolocation.longitude" content="" />
           <meta name="geolocation.altitude" content="" />
