@@ -4,9 +4,9 @@
 
 ## Em cada linguagem há maneiras de se fazer isso. Usaremos PHP como exemplo. Na página que tiver que ser redirecionada, basta inserir as seguintes instruções:
 
-	  ### <?
-	  ### Header( “HTTP/1.1 301 Moved Permanently” );
-	  ### Header( “Location: http://www.novoendereco.com.br/” );
-	  ### ?>
+	   <?
+	   Header( “HTTP/1.1 301 Moved Permanently” );
+	   Header( “Location: http://www.novoendereco.com.br/” );
+	   ?>
     
 ## Assim, toda vez que o usuário acessar o endereço antigo, será automaticamente redirecionado para o link informado em Location.
